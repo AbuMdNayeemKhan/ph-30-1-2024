@@ -1,0 +1,11 @@
+const country = 'bangladesh';
+const division = "Newkhale";
+const districk = "b-baria"; 
+const thana = new String('Demra');
+console.log(thana);
+const numbers = [455, 58, 29, 98, 90];
+console.log(numbers.length);
+console.log(numbers[3]);
+const capital = "Dhaka";
+console.log(capital.length);
+console.log(capital[4]);
